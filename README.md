@@ -37,5 +37,5 @@ General code
     - Plot map with amplitudes on to analyse spacial
   - space_time_plot: Takes Fredricks idea of 3 plots to analyse the time domain of array, spacially (done on qgis), havent done the last by combining the 2 into a score
     - uses the catagorises already contained in folders and reads names to create clasified stream
-    - plots timeoline of classification with sybols
+    - plots timeline of classification with symbols 
   - For the spacedomain Making_QGIS_GEOJSON does that then you can put into QGIS and add the converted to csv labelled st
