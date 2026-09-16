@@ -10,8 +10,13 @@ Quick Commands to plot:
 - (not a command but simple code) event_search: makes stream of events with certian criteria and plots seismogram 
 
 General code
-  -plot_mer + function file: Plots seismograms, filtered seismogreams, taup arrivals, spectrograms with all options, use for saving a bunch of plots create from traces
-  -Data_invst_mer _ functions: visualising the identified record with 
+  -plot_mer + function file 
+    - Plots seismograms
+    - filtered seismogreams
+    - taup arrivals
+    - spectrograms with all options
+    - use for saving a bunch of plots create from traces
+  -Data_invst_mer + functions: visualising the identified record with 
     - reads st into a pandas df adding region
     - Plots histograms of mag & gcarc of the record
     - Maps mermaid identified trigger location with bathymotry (currently does unidentified)
